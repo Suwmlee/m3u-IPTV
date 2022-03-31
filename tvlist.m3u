@@ -57,16 +57,10 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225659/index.m3u8
-#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实
-http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8
-#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实
-http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225674/index.m3u8
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京",北京纪实
-http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225700/index.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
@@ -137,14 +131,10 @@ http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
 http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实
 http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江苏张家港综合
-http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江苏张家港民生
-http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江苏连云港综合
-http://live.lyg1.com/zhpd/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江苏连云港公共
-http://live.lyg1.com/ggpd/sd/live.m3u8
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实
+http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实
+http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="港澳台",NHKWorld
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="港澳台",NHKWorld
