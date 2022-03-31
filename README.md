@@ -2,7 +2,7 @@
 
 配合[xteve_guide2go](https://registry.hub.docker.com/r/alturismo/xteve_guide2go)使用
 
-xteve网页访问地址 ip:34400/web/
+xteve网页访问地址 `ip:34400/web/`    
 在页面内配置m3u与epg即可
 
 EPG list:

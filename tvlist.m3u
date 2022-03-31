@@ -129,17 +129,11 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225667/index.m3u8
 #EXTINF:-1 tvg-id="476" tvg-name="澳亚卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/澳亚卫视.png" group-title="澳门",澳亚卫视
 http://61.244.22.4/ch3/ch3.live/chunklist_w415594313.m3u8
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京",北京纪实
-http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
 #EXTINF:-1 tvg-id="1991" tvg-name="上视外语频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="上海",上视外语频道
 http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海",上海都市
 http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",上海法制
-http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",上海财经
-http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",上海生活
+#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",生活时尚
 http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实
 http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
@@ -151,27 +145,11 @@ http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8
 http://live.lyg1.com/zhpd/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江苏连云港公共
 http://live.lyg1.com/ggpd/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江苏淮安综合
-http://stream.habctv.com/xwzh/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江苏淮安公共
-http://stream.habctv.com/hagg/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",西安音乐综艺
-http://stream2.xiancity.cn/xatv6/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",深圳蛇口
-http://218.17.99.211:5080/hls/ttsw6ccn.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",深圳蛇口
-http://218.17.99.211:82/hls/d4encs75.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",莲花卫视
-http://nettvpro.live/hls/lotustv.php
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",LOVE自然1080
-http://177.20.208.58:8000/play/a03r/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",纯享4K
-http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="港澳台",NHKWorld
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="港澳台",NHKWorld
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-#EXTINF:-1 tvg-id="6033" tvg-name="GoodTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GoodTV.png" group-title="港澳台",好消息电视台
+#EXTINF:-1 tvg-id="6033" tvg-name="GoodTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GoodTV.png" group-title="港澳台",好消息频道
 http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
-#EXTINF:-1 tvg-id="6033" tvg-name="GoodTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GoodTV.png" group-title="港澳台",好消息电视台
+#EXTINF:-1 tvg-id="578" tvg-name="GoodTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GoodTV2.png" group-title="港澳台",好消息二台
 http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
