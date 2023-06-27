@@ -1,9 +1,8 @@
 ## IPTV m3u source
 
-Emby 配合 [xteve_guide2go](https://registry.hub.docker.com/r/alturismo/xteve_guide2go) 使用
+### 使用
 
-xteve网页访问地址 `ip:34400/web/`    
-在页面内配置m3u与epg即可
+Emby内可直接作为电视源使用，配合EPG追踪节目单
 
 EPG list:
 http://epg.51zmt.top:8000/
